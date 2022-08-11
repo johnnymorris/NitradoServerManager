@@ -1,0 +1,14 @@
+{
+	
+    "token": "{INSERT DISCORD TOKEN}",
+	"clientId": "{INSERT DISCORD CLIENT ID}",
+	"guildId": "{INSERT DISCORD guildID for testing}",
+    "client": {
+    },
+    "mysql": {
+        "host": "{INSERT Maria/MySQL Database host}",
+        "user": "{INSERT Maria/MySQL username}",
+        "password": "{INSERT Maria/MySQL password}",
+        "database": "{INSERT Maria/MySQL Database name}"
+    }
+}
