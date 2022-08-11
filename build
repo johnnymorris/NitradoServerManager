@@ -1,0 +1,5 @@
+docker stop NitradoStatus
+docker rm NitradoStatus
+docker build -t ns .
+docker run -d --name NitradoStatus ns
+docker logs -f NitradoStatus
