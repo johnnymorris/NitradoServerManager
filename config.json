@@ -1,14 +1,14 @@
 {
 
-    "token": "TOKEN,
-        "clientId": "CLIENT ID",
-        "guildId": "GUILD ID",
+    "token": "OTQ2ODcyNjI0NDY4ODc3Mzcy.YhlB2Q.VYvDRRQY_ha-fCG_Ag1tky9-SEo",
+        "clientId": "946872624468877372",
+        "guildId": "995277009599070249",
     "client": {
     },
     "mysql": {
-        "host": "SQL HOST",
-        "user": "SQL USER",
-        "password": "SQL PW",
-        "database": "SQL DB"
+        "host": "192.168.0.6",
+        "user": "root",
+        "password": "root",
+        "database": "NitradoStatus"
     }
 }
