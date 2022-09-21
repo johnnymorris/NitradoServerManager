@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR /mnt/user/appdata/NitradoStatus/
+WORKDIR /mnt/user/appdata/NitradoServerManager/
 
 COPY . .
 

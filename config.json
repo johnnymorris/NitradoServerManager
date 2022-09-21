@@ -1,14 +1,14 @@
 {
-	
-    "token": "{INSERT DISCORD TOKEN}",
-	"clientId": "{INSERT DISCORD CLIENT ID}",
-	"guildId": "{INSERT DISCORD guildID for testing}",
+
+    "token": "OTQ2ODcyNjI0NDY4ODc3Mzcy.YhlB2Q.VYvDRRQY_ha-fCG_Ag1tky9-SEo",
+        "clientId": "946872624468877372",
+        "guildId": "995277009599070249",
     "client": {
     },
     "mysql": {
-        "host": "{INSERT Maria/MySQL Database host}",
-        "user": "{INSERT Maria/MySQL username}",
-        "password": "{INSERT Maria/MySQL password}",
-        "database": "{INSERT Maria/MySQL Database name}"
+        "host": "192.168.0.6",
+        "user": "root",
+        "password": "root",
+        "database": "NitradoStatus"
     }
 }
