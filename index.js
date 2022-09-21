@@ -135,6 +135,23 @@ async function give_me_gameserver_info(user_id,server_id,access_token){
 	});
 }
 
+
+async function monitorCheckIn(){
+	//Start function
+	const o_gameservers = {
+		url: 'http://192.168.0.6:3001/api/push/D4FcTJ1QZN?status=up&msg=OK&ping='
+	};
+	
+	async function c_gameservers(e_gameservers, r_gameservers, b_gameservers) {
+		if (!e_gameservers && r_gameservers.statusCode == 200) {
+			var myTimeStamp = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '')
+			console.log(myTimeStamp + " - Checked in to UptimeKuma at 192.168.0.6");
+		}
+	}
+	request(o_gameservers,c_gameservers);
+	//End function
+}
+
 async function give_me_server_list(user_id,access_token){
 	return new Promise(resolve => {
 	const o_services = {
@@ -231,12 +248,15 @@ async function status_check(){
 		// Console log if there is an error
 		if (err) return console.log(err);
 
+		//Trigger status check (to show system still working)
+		monitorCheckIn();
+
 		//SQL - query all users 
 		con.query(`SELECT DISTINCT(guild_id) FROM user_guild_link;`, async (guild_list_token, guild_list) => {
 			guild_list.forEach(async(obj_guild_list) =>{
 			
 			guildlink=await client.guilds.cache.get(obj_guild_list['guild_id']);
-			console.log('guild_id');
+			
 			
 				con.query('SELECT user_guild_link.guild_id,users.* FROM user_guild_link JOIN users ON user_guild_link.user_id=users.user_id WHERE user_guild_link.guild_id="'+obj_guild_list['guild_id']+'"', async (server_list_token, list_of_servers) => {
 				
@@ -303,7 +323,7 @@ async function status_check(){
 					//Check if this bot has previously added a message.
 						let channel_status = await guildlink.channels.cache.find(c => c.name.includes("server-status"));
 						//var channel_status = await guildlink.channels.cache.find(c => c.name.includes("server-status") && c.type === 'text')
-						console.log(channel_status);
+						
 						
 						//Create embed item				
 						const ssembed = new MessageEmbed()
@@ -322,7 +342,6 @@ async function status_check(){
 							let createNew=true;
 							
 							try{
-							console.log(channel_status);
 							await channel_status.messages.fetch({ limit: 100 }).then(messages => {
 								//Iterate through the messages here with the variable "messages".
 								messages.forEach(message => {

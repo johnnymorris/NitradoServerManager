@@ -1,0 +1,49 @@
+﻿[2022.02.12-04.28.13:274][  0]Log file open, 02/12/22 04:28:13
+[2022.02.12-04.28.13:275][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2022.02.12-04.28.13:275][  0]LogMemory: Process Physical Memory: 59.15 MB used, 75.48 MB peak
+[2022.02.12-04.28.13:275][  0]LogMemory: Process Virtual Memory: 88.96 MB used, 88.96 MB peak
+[2022.02.12-04.28.13:275][  0]LogMemory: Physical Memory: 381537.25 MB used, 522761.91 MB total
+[2022.02.12-04.28.13:275][  0]LogMemory: Virtual Memory: 4381.98 MB used, 134217728.00 MB total
+[2022.02.12-04.28.13:982][  0]ARK Version: 700.1
+[2022.02.12-04.28.35:632][  0]Primal Game Data Took 21.32 seconds
+[2022.02.12-04.29.38:338][  0]Server: "Arthurs Knights - Genesis Pt.1/Boosted/Custom Drops/Fast Breed/Custom Stats/" has successfully started!
+[2022.02.12-04.29.44:953][  0]Full Startup: 94.86 seconds (BP compile: 0.00 seconds)
+[2022.02.12-04.29.44:953][  0]Number of cores 20
+[2022.02.12-11.42.42:478][838]Login request: /Game/Maps/MainMenu?Name=DrHarleyQuinzeI 
+[2022.02.12-11.42.50:301][ 45]2022.02.12_11.42.50: DrHarleyQuinzeI joined this ARK!
+[2022.02.12-11.53.38:041][232]2022.02.12_11.53.38: Tribe Arthurs Knights, ID 1254972880: Day 498, 19:35:15: Kitty v2 froze Astrocetus - Lvl 285 (Astrocetus))
+[2022.02.12-11.53.38:041][232]Frozen by ID: 7826048207416076922
+[2022.02.12-11.54.07:432][999]2022.02.12_11.54.07: Tribe Arthurs Knights, ID 1254972880: Day 498, 19:44:10: Kitty v2 froze Master - Lvl 450 (Astrocetus))
+[2022.02.12-11.54.07:433][999]Frozen by ID: 7826048207416076922
+[2022.02.12-11.56.16:919][755]2022.02.12_11.56.16: Tribe  Tamed a Baby Magmasaur - Lvl 290 (Magmasaur)!
+[2022.02.12-11.56.22:152][912]2022.02.12_11.56.22: Tribe Arthurs Knights, ID 1254972880: Day 498, 20:27:09: <RichColor Color="1, 0, 1, 1">Kitty v2 claimed 'Baby Magmasaur - Lvl 290 (Magmasaur)'!</>)
+[2022.02.12-11.56.34:364][278]2022.02.12_11.56.34: Tribe Arthurs Knights, ID 1254972880: Day 498, 20:37:58: Kitty v2 froze Baby Magmasaur - Lvl 290 (Magmasaur))
+[2022.02.12-11.56.34:364][278]Frozen by ID: 7826048207416076922
+[2022.02.12-11.57.34:707][ 79]2022.02.12_11.57.34: Tribe  Tamed a Baby Magmasaur - Lvl 270 (Magmasaur)!
+[2022.02.12-11.57.37:006][148]2022.02.12_11.57.37: Tribe  Tamed a Baby Magmasaur - Lvl 300 (Magmasaur)!
+[2022.02.12-11.57.39:567][225]2022.02.12_11.57.39: Tribe Arthurs Knights, ID 1254972880: Day 498, 21:35:33: <RichColor Color="1, 0, 1, 1">Kitty v2 claimed 'Baby Magmasaur - Lvl 270 (Magmasaur)'!</>)
+[2022.02.12-11.57.48:369][489]2022.02.12_11.57.48: Tribe Arthurs Knights, ID 1254972880: Day 498, 21:43:22: Kitty v2 froze Baby Magmasaur - Lvl 270 (Magmasaur))
+[2022.02.12-11.57.48:369][489]Frozen by ID: 7826048207416076922
+[2022.02.12-11.57.50:900][565]2022.02.12_11.57.50: Tribe Arthurs Knights, ID 1254972880: Day 498, 21:45:34: <RichColor Color="1, 0, 1, 1">Kitty v2 claimed 'Baby Magmasaur - Lvl 300 (Magmasaur)'!</>)
+[2022.02.12-11.58.04:155][962]2022.02.12_11.58.04: Tribe Arthurs Knights, ID 1254972880: Day 498, 21:57:19: Kitty v2 froze Baby Magmasaur - Lvl 300 (Magmasaur))
+[2022.02.12-11.58.04:155][962]Frozen by ID: 7826048207416076922
+[2022.02.12-12.06.12:695][551]2022.02.12_12.06.12: Tribe Arthurs Knights, ID 1254972880: Day 499, 05:08:19: Kitty v2 froze Juvenile Magmasaur - Lvl 290 (Magmasaur))
+[2022.02.12-12.06.12:696][551]Frozen by ID: 7826048207416076922
+[2022.02.12-12.06.38:822][334]2022.02.12_12.06.38: Tribe Arthurs Knights, ID 1254972880: Day 499, 05:20:38: Kitty v2 froze Juvenile Magmasaur - Lvl 300 (Magmasaur))
+[2022.02.12-12.06.38:822][334]Frozen by ID: 7826048207416076922
+[2022.02.12-12.08.02:582][841]2022.02.12_12.08.02: AdminCmd: gcm (PlayerName: DrHarleyQuinzeI, ARKID: 264817359, SteamID: 7826048207416076922)
+[2022.02.12-12.08.33:890][776]2022.02.12_12.08.33: Tribe Arthurs Knights, ID 1254972880: Day 499, 05:55:32: Kitty v2 froze Kitty - Lvl 552 (Giganotosaurus))
+[2022.02.12-12.08.33:890][776]Frozen by ID: 7826048207416076922
+[2022.02.12-12.21.35:415][822]2022.02.12_12.21.35: Tribe Arthurs Knights, ID 1254972880: Day 499, 09:52:12: Kitty v2 froze Kitty - Lvl 552 (Giganotosaurus))
+[2022.02.12-12.21.35:416][822]Frozen by ID: 7826048207416076922
+[2022.02.12-12.45.20:133][997]2022.02.12_12.45.20: Tribe Arthurs Knights, ID 1254972880: Day 499, 17:03:04: Kitty v2 froze Kitty - Lvl 552 (Giganotosaurus))
+[2022.02.12-12.45.20:133][997]Frozen by ID: 7826048207416076922
+[2022.02.12-13.33.24:764][137]2022.02.12_13.33.24: Tribe Arthurs Knights, ID 1254972880: Day 500, 13:25:26: Kitty v2 froze 1122w 52 - Lvl 270 (Magmasaur))
+[2022.02.12-13.33.24:764][137]Frozen by ID: 7826048207416076922
+[2022.02.12-13.51.38:440][285]2022.02.12_13.51.38: Tribe Arthurs Knights, ID 1254972880: Day 500, 18:56:25: Kitty v2 froze Kitty - Lvl 552 (Giganotosaurus))
+[2022.02.12-13.51.38:441][285]Frozen by ID: 7826048207416076922
+[2022.02.12-13.54.50:491][ 33]2022.02.12_13.54.50: AdminCmd: gcm (PlayerName: DrHarleyQuinzeI, ARKID: 264817359, SteamID: 7826048207416076922)
+[2022.02.12-17.43.46:881][760]2022.02.12_17.43.46: AdminCmd: fly (PlayerName: DrHarleyQuinzeI, ARKID: 264817359, SteamID: 7826048207416076922)
+[2022.02.12-17.49.18:032][603]2022.02.12_17.49.18: DrHarleyQuinzeI left this ARK!
+[2022.02.13-04.19.55:713][970] - FPlatformMisc::RequestExit(1)
+[2022.02.13-04.19.55:713][970]Log file closed, 02/13/22 04:19:55
